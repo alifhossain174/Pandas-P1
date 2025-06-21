@@ -1,0 +1,8 @@
+Insall Pandas in local environment
+==================================
+1. cd /path/to/your/folder
+2. python -m venv venv (Create Virtual ENV)
+3. venv\Scripts\activate (Activate the ENV)
+4. pip install pandas
+5. deactivate (Deactivate the ENV)
+
