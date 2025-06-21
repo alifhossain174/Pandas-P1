@@ -13,3 +13,11 @@
 
 it will store the library versions inside that txt file to use later on when someone clone the repo
 
+## After Cloning
+1. git clone https://github.com/yourusername/yourproject.git
+2. cd yourproject
+3. python -m venv venv
+4. venv\Scripts\activate
+5. pip install -r requirements.txt
+
+Now the developer will have the exact same packages and versions you had in your local setup.
