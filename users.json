@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Md Fahim Hossain",
+    "email": "fahim@example.com",
+    "is_active": true,
+    "roles": ["admin", "developer"]
+  },
+  {
+    "id": 2,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "is_active": false,
+    "roles": ["editor"]
+  },
+  {
+    "id": 3,
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "is_active": true,
+    "roles": ["viewer", "contributor"]
+  }
+]
